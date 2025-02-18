@@ -1,0 +1,7 @@
+id = "one-dark-pro-max"
+name = "One Dark Pro Max"
+version = "0.0.1"
+schema_version = 1
+authors = ["Kusuma"]
+description = "One Dark Pro Max theme for Zed :)"
+repository = "https://github.com/kussumma/one-dark-pro-max"
